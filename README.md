@@ -1,7 +1,5 @@
 # SQL Spring 2025 Group Project 
-Jacob Tennenbaum
-Shana Mandelbaum
-Esther Yee
+Collaborators: Jacob Tennenbaum, Shana Mandelbaum, Esther Yee
 
 # Phase 1:
 
